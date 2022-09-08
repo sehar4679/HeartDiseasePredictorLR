@@ -21,3 +21,6 @@ We achieved 88% accuracy, which is a positive indicator. We could enhance them b
 12. ca: The number of major vessels (0-3)
 13. thal: A blood disorder called thalassemia (3 = normal; 6 = fixed defect; 7 = reversable defect)
 14. target: Heart disease (0 = no, 1 = yes)
+
+**RESULTS**
+!(results.jpg)
