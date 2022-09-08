@@ -23,4 +23,4 @@ We achieved 88% accuracy, which is a positive indicator. We could enhance them b
 14. target: Heart disease (0 = no, 1 = yes)
 
 **RESULTS**
-!(results.jpg)
+![]("C:\Users\rseha\Downloads\results.jpg")
