@@ -1,4 +1,4 @@
-**Technique of logistic regression for predicting cardiovascular disease**
+## Technique of logistic regression for predicting cardiovascular disease
 
 Most cardiovascular diseases can be prevented by addressing behavioral risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity, and harmful use of alcohol using population-wide strategies. However, people with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidemia, or already established disease) need early detection and management wherein a machine learning model can be of great help.
 
@@ -22,5 +22,5 @@ We achieved 88% accuracy, which is a positive indicator. We could enhance them b
 13. thal: A blood disorder called thalassemia (3 = normal; 6 = fixed defect; 7 = reversable defect)
 14. target: Heart disease (0 = no, 1 = yes)
 
-**RESULTS**
-![]("C:\Users\rseha\Downloads\results.jpg")
+**graph**
+[Results](https://github.com/sehar4679/HeartDiseasePredictorLR/blob/38c2939f618d0eedc3d21bd8ecb8f1db45f66e67/results%20(1).jpg)
