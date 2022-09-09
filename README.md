@@ -22,7 +22,9 @@ We achieved 84% accuracy, which is a positive indicator. We could enhance them b
 13. thal: A blood disorder called thalassemia (3 = normal; 6 = fixed defect; 7 = reversable defect)
 14. target: Heart disease (0 = no, 1 = yes)
 
-graphs
-<p align="center">
-    <img width = 800 src="HeartDiseasePredictorLR/download.png" alt="Drawing" />
-</p>
+**GRAPHS**
+![image](https://user-images.githubusercontent.com/110671138/189316967-c692320e-6089-4f00-b491-8e04ddd2f20c.png)
+
+![K neighbor scores for different K values](https://github.com/sehar4679/HeartDiseasePredictorLR/blob/main/download%20(1).png?raw=true)
+![Image 2](https://github.com/sehar4679/HeartDiseasePredictorLR/blob/main/download%20(2).png?raw=true)
+![figure size](https://user-images.githubusercontent.com/110671138/189316815-8b024a13-5fbf-4926-b2d7-c26dd7b28e1b.png)
